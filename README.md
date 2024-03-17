@@ -8,10 +8,11 @@ UK Pariament: https://developer.parliament.uk/
 
 
 ## get_all_members.py
-Overview
+### Overview
 
 This Python script retrieves information about members of both houses of the UK Parliament using the UK Parliament's Members API. The script can fetch data on current and former Members of Parliament (MPs) and Lords, then normalize and export the data to a CSV file.
-How it Works
+
+### How it Works
 
 The script is structured as follows:
 
@@ -21,7 +22,7 @@ The script is structured as follows:
     Data Normalization: The expand_json_column() function normalizes nested JSON data from the API response and merges it with the main data frame.
     CSV Export: The processed data is written to a CSV file, and the script logs the successful completion of this operation.
 
-Results
+### Results
 
 The script outputs a CSV file with the following columns and descriptions:
 Column Name	Description
