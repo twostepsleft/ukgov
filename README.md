@@ -25,6 +25,7 @@ The script is structured as follows:
 ### Results
 
 The script outputs a CSV file with the following columns and descriptions:
+
 Column Name	Description
 nameListAs	The name used to list the member.
 nameDisplayAs	The name displayed for the member.
