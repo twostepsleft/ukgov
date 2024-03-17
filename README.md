@@ -27,6 +27,7 @@ The script is structured as follows:
 The script outputs a CSV file with the following columns and descriptions:
 
 ![image](https://github.com/twostepsleft/ukgov/assets/30218592/33ead10e-b888-4c38-85c9-042b631589cc)
+
 (* indicates that there are multiple columns starting with this prefix, each pertaining to different attributes of the party or house membership.)
 Usage
 
