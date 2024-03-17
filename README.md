@@ -26,21 +26,7 @@ The script is structured as follows:
 
 The script outputs a CSV file with the following columns and descriptions:
 
-Column Name	Description
-nameListAs	The name used to list the member.
-nameDisplayAs	The name displayed for the member.
-nameFullTitle	The full title of the member, including honorifics.
-nameAddressAs	The name used to address the member.
-gender	The gender of the member.
-thumbnailUrl	URL to the thumbnail image of the member.
-IsCurrentMember	Boolean indicating if the member is current.
-MemberType	Type of member (MP or Lord).
-latestParty_*	Latest party details, including ID, name, abbreviation, etc.
-latestHouseMembership_*	Latest house membership details, including dates and reasons.
-latestHouseMembership_membershipStatus_*	Status of the latest house membership.
 ![image](https://github.com/twostepsleft/ukgov/assets/30218592/33ead10e-b888-4c38-85c9-042b631589cc)
-
-
 (* indicates that there are multiple columns starting with this prefix, each pertaining to different attributes of the party or house membership.)
 Usage
 
